@@ -1,0 +1,6 @@
+*.csv
+*.log
+__pycache__/
+step*
+liberated*
+gold*
